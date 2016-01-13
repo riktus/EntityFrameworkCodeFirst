@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirst", "EfCodeFirst\EfCodeFirst.csproj", "{73C1C4C3-2F25-485D-8916-0DCAAA40B484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{DC10FD0B-326F-465B-A319-7FCF5F7A58F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContext", "DataContext\DataContext.csproj", "{D450D8EA-CA69-4DE5-A74B-6E837275BC44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73C1C4C3-2F25-485D-8916-0DCAAA40B484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C1C4C3-2F25-485D-8916-0DCAAA40B484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C1C4C3-2F25-485D-8916-0DCAAA40B484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C1C4C3-2F25-485D-8916-0DCAAA40B484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC10FD0B-326F-465B-A319-7FCF5F7A58F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC10FD0B-326F-465B-A319-7FCF5F7A58F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC10FD0B-326F-465B-A319-7FCF5F7A58F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC10FD0B-326F-465B-A319-7FCF5F7A58F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D450D8EA-CA69-4DE5-A74B-6E837275BC44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D450D8EA-CA69-4DE5-A74B-6E837275BC44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D450D8EA-CA69-4DE5-A74B-6E837275BC44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D450D8EA-CA69-4DE5-A74B-6E837275BC44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

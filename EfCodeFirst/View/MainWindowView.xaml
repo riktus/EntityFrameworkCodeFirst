@@ -1,0 +1,8 @@
+﻿<Window x:Class="EfCodeFirst.View.MainWindowView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EFCodeFirst" Height="110" Width="220">
+    <Grid>
+        <Button Content="Create DataBase" Height="50" Margin="10" Command="{Binding CreateDbCommand}"/>
+    </Grid>
+</Window>

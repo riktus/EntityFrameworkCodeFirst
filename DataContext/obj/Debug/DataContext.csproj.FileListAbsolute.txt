@@ -1,0 +1,14 @@
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\DataContext.dll.config
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\DataContext.dll
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\DataContext.pdb
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\Entity.dll
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\EntityFramework.dll
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\Entity.pdb
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\EntityFramework.xml
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\obj\Debug\DataContext.csprojResolveAssemblyReference.cache
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\obj\Debug\DataContext.dll
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\obj\Debug\DataContext.pdb
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\obj\Debug\DataContext.Migrations.InitialCreate.resources
+c:\users\avolkov\documents\visual studio 2013\Projects\EfCodeFirst\DataContext\obj\Debug\DataContext.csproj.GenerateResource.Cache
