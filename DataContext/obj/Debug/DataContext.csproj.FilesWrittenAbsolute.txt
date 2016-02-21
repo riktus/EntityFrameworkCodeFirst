@@ -1,0 +1,11 @@
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/obj/Debug/DataContext.Migrations.InitialCreate.resources
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/DataContext.dll.config
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/DataContext.dll.mdb
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/DataContext.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/obj/Debug/DataContext.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/obj/Debug/DataContext.dll.mdb
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/EntityFramework.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/EntityFramework.SqlServer.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/Entity.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/DataContext/bin/Debug/Entity.dll.mdb

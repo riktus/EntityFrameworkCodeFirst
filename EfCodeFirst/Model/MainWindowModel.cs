@@ -25,7 +25,7 @@ namespace EfCodeFirst.Model
 
             ModelContextBase context = contextFactory.CreateModelContext(contextFactory.CreateDbConnection(parameters));
 
-            context.Database.CommandTimeout = 600;
+            context.Database.CommandTimeout = 800;
 
             if (context.Database.Exists())
                 context.Database.Delete();

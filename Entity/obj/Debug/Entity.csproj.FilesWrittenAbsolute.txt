@@ -1,0 +1,5 @@
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/Entity/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/Entity/bin/Debug/Entity.dll.mdb
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/Entity/bin/Debug/Entity.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/Entity/obj/Debug/Entity.dll
+/Users/spyro/GitHub/EntityFrameworkCodeFirst/Entity/obj/Debug/Entity.dll.mdb
